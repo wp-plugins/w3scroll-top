@@ -37,6 +37,8 @@ Live Preview: <cite><a href="http://w3itinfo.com/plugins/w3scrolltop" target="_b
 
 == Screenshots ==
 
+Screenshots
+
 * This is an example of W3Scroll Top.Just Instal and active it.Go to Home/Any page of your site, You will see like this.
 
 == Changelog ==
