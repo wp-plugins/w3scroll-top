@@ -23,7 +23,7 @@ Plugin Features
 * Once active W3Scroll Top plugin it will work for your WordPress Theme.
 * Very Lightweight. Only 10KB.
 
-Live Preview: <a href="http://w3itinfo.com/plugins/w3scrolltop" target="_blank">http://w3itinfo.com/plugins/w3scrolltop</a>
+Live Preview: <cite><a href="http://w3itinfo.com/plugins/w3scrolltop" target="_blank">http://w3itinfo.com/plugins/w3scrolltop</a></cite>
 
 
 == Installation ==
