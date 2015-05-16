@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will enable scroll to top function in your WordPress theme. Just active, it will work for your WordPress theme. Impossible to be easier than this one!
+This plugin will enable scroll to top function. Just active, it will work for your WordPress theme. Impossible to be easier than this one!
 
 
 == Description ==
