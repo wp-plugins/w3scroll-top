@@ -37,7 +37,7 @@ Live Preview: <a href="http://w3itinfo.com/plugins/w3scrolltop" target="_blank">
 
 == Screenshots ==
 
-1. Just Install W3Scroll Top plugin and active it.Go to Home/Any page of your site, You will see like this.
+1. This is an example of W3Scroll Top.Just Instal and active it.Go to Home/Any page of your site, You will see like this.
 
 == Changelog ==
 
