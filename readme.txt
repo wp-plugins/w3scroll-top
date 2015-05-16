@@ -28,7 +28,7 @@ Live Preview: <cite><a href="http://w3itinfo.com/plugins/w3scrolltop" target="_b
 
 == Installation ==
 
-*** e.g.
+* e.g.
 
 1. Upload `plugin-directory` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
@@ -37,7 +37,7 @@ Live Preview: <cite><a href="http://w3itinfo.com/plugins/w3scrolltop" target="_b
 
 == Screenshots ==
 
-1. This is an example of W3Scroll Top.Just Instal and active it.Go to Home/Any page of your site, You will see like this.
+* This is an example of W3Scroll Top.Just Instal and active it.Go to Home/Any page of your site, You will see like this.
 
 == Changelog ==
 
